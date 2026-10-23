@@ -1,0 +1,42 @@
+{
+  "Categorical Naive Bayes": [
+    [
+      1183,
+      33
+    ],
+    [
+      53,
+      9
+    ]
+  ],
+  "Expert Bayesian Network": [
+    [
+      1211,
+      5
+    ],
+    [
+      59,
+      3
+    ]
+  ],
+  "Compact Bayesian Network": [
+    [
+      1186,
+      30
+    ],
+    [
+      59,
+      3
+    ]
+  ],
+  "Strong-Prior Bayesian Network": [
+    [
+      1211,
+      5
+    ],
+    [
+      59,
+      3
+    ]
+  ]
+}
